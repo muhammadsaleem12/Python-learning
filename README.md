@@ -62,6 +62,7 @@ Topics are organized in the order I learned them:
 05 - Conditional Expressions
 06 - Loops
 07 - Functions and Recursion
+08 - File I/O
 ```
 
 More topics will be added as I continue learning.
@@ -99,6 +100,12 @@ A Python program for creating and managing an RPG character.
 A command-line Snake, Water, Gun game written in Python.
 
 📁 `practice_projects/02-snake-water-gun/`
+
+### Pattern Generator Mini Project
+
+A pattern generator, mini python project.
+
+📁 `practice_projects/03-pattern-generator-mini-project/`
 
 ---
 
@@ -173,6 +180,7 @@ This repository will continue to grow as I learn more Python.
 * [x] Practice Problems
 * [x] RPG Character Project
 * [x] Snake, Water, Gun Project
+* [x] File I/O
 * [x] Daily Learning Notes
 
 ### Up Next
