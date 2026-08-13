@@ -39,7 +39,7 @@ python-learning/
 │
 ├── learning/       # Python concepts and practice problems
 │
-├── projects/       # Projects built while learning
+├── practice_projects/       # Projects built while learning
 │
 ├── daily-notes/    # Daily records of my learning progress
 │
@@ -66,7 +66,7 @@ Topics are organized in the order I learned them:
 
 More topics will be added as I continue learning.
 
-### `projects/`
+### `practice_projects/`
 
 Contains projects I have built to apply what I have learned.
 
@@ -74,6 +74,7 @@ Current projects include:
 
 * **RPG Character**
 * **Snake, Water, Gun**
+* **Pattern Generator Mini Project**
 
 More projects will be added as my Python skills improve.
 
@@ -85,19 +86,19 @@ Starting from August 10, 2026, I am keeping a daily record of what I learn, prac
 
 ---
 
-## 🚀 Projects
+## 🚀 Practice_Projects
 
 ### RPG Character
 
 A Python program for creating and managing an RPG character.
 
-📁 `projects/01-rpg-character/`
+📁 `practice_projects/01-rpg-character/`
 
 ### Snake, Water, Gun
 
 A command-line Snake, Water, Gun game written in Python.
 
-📁 `projects/02-snake-water-gun/`
+📁 `practice_projects/02-snake-water-gun/`
 
 ---
 
@@ -130,7 +131,7 @@ python learning/07-functions-and-recursion/practice.py
 Or run one of the projects:
 
 ```bash
-python projects/02-snake-water-gun/main.py
+python practice_projects/02-snake-water-gun/main.py
 ```
 
 > Some files may require a specific Python version or additional setup as the repository grows.
