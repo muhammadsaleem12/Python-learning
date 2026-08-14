@@ -63,6 +63,7 @@ Topics are organized in the order I learned them:
 06 - Loops
 07 - Functions and Recursion
 08 - File I/O
+09 - OOP - Object Oriented Programming
 ```
 
 More topics will be added as I continue learning.
@@ -180,8 +181,9 @@ This repository will continue to grow as I learn more Python.
 * [x] Practice Problems
 * [x] RPG Character Project
 * [x] Snake, Water, Gun Project
-* [x] File I/O
 * [x] Daily Learning Notes
+* [x] File I/O
+* [x] OOP - Object Oriented Programming
 
 ### Up Next
 
