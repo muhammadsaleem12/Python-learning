@@ -28,7 +28,7 @@ Review mistakes
 Move on to the next concept
 ```
 
-I believe that writing code and solving problems is an important part of learning, so this repository contains both my learning exercises and the projects I build along the way.
+I believe that writing code and solving problems is an important part of learning, so this repository contains both my learning exercises and the practice projects I build along the way.
 
 ---
 
@@ -64,6 +64,7 @@ Topics are organized in the order I learned them:
 07 - Functions and Recursion
 08 - File I/O
 09 - OOP - Object Oriented Programming
+09 - Inheritance and More OOP
 ```
 
 More topics will be added as I continue learning.
@@ -184,6 +185,7 @@ This repository will continue to grow as I learn more Python.
 * [x] Daily Learning Notes
 * [x] File I/O
 * [x] OOP - Object Oriented Programming
+* [x] Inheritance and More OOP
 
 ### Up Next
 
