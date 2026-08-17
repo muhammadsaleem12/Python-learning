@@ -78,6 +78,7 @@ Current projects include:
 * **RPG Character**
 * **Snake, Water, Gun**
 * **Pattern Generator Mini Project**
+* **The Perfect Guess**
 
 More projects will be added as my Python skills improve.
 
@@ -87,29 +88,23 @@ Contains my daily learning notes.
 
 Starting from August 10, 2026, I am keeping a daily record of what I learn, practice, struggle with, and accomplish.
 
----
+<!-- ---
 
-## 🚀 Practice_Projects
+## 🚀 Major Projects
 
-### RPG Character
+### Project Name
 
-A Python program for creating and managing an RPG character.
+Short description of the project.
 
-📁 `practice_projects/01-rpg-character/`
+🔗 [View Project Repository](YOUR-REPOSITORY-LINK)
 
-### Snake, Water, Gun
+### Another Project
 
-A command-line Snake, Water, Gun game written in Python.
+Short description of the project.
 
-📁 `practice_projects/02-snake-water-gun/`
+🔗 [View Project Repository](YOUR-REPOSITORY-LINK)
 
-### Pattern Generator Mini Project
-
-A pattern generator, mini python project.
-
-📁 `practice_projects/03-pattern-generator-mini-project/`
-
----
+--- -->
 
 ## 💻 Getting Started
 
@@ -179,10 +174,6 @@ This repository will continue to grow as I learn more Python.
 * [x] Loops
 * [x] Functions
 * [x] Recursion
-* [x] Practice Problems
-* [x] RPG Character Project
-* [x] Snake, Water, Gun Project
-* [x] Daily Learning Notes
 * [x] File I/O
 * [x] OOP - Object Oriented Programming
 * [x] Inheritance and More OOP
