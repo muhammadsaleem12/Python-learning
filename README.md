@@ -64,7 +64,8 @@ Topics are organized in the order I learned them:
 07 - Functions and Recursion
 08 - File I/O
 09 - OOP - Object Oriented Programming
-09 - Inheritance and More OOP
+10 - Inheritance and More OOP
+11 - Advance Python 01
 ```
 
 More topics will be added as I continue learning.
@@ -177,6 +178,7 @@ This repository will continue to grow as I learn more Python.
 * [x] File I/O
 * [x] OOP - Object Oriented Programming
 * [x] Inheritance and More OOP
+* [x] Advance Python 01
 
 ### Up Next
 
