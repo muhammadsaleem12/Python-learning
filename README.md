@@ -66,6 +66,7 @@ Topics are organized in the order I learned them:
 09 - OOP - Object Oriented Programming
 10 - Inheritance and More OOP
 11 - Advance Python 01
+12 - Advance Python 02
 ```
 
 More topics will be added as I continue learning.
@@ -179,6 +180,7 @@ This repository will continue to grow as I learn more Python.
 * [x] OOP - Object Oriented Programming
 * [x] Inheritance and More OOP
 * [x] Advance Python 01
+* [x] Advance Python 02
 
 ### Up Next
 
