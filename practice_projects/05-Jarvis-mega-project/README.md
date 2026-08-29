@@ -21,6 +21,8 @@ Jarvis is a personal voice assistant built with **Python**. It listens for the w
 * NewsAPI
 * Requests
 * python-dotenv
+* pyaudio
+* setuptools
 
 ## 📁 Project Structure
 
@@ -62,7 +64,7 @@ env\Scripts\activate
 Install the required packages:
 
 ```bash
-pip install SpeechRecognition pyttsx3 python-dotenv requests google-genai
+pip install SpeechRecognition pyttsx3 python-dotenv requests google-genai pyaudio setuptools
 ```
 
 Create a `.env` file in the project folder:

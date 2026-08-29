@@ -81,6 +81,7 @@ Current projects include:
 * **Snake, Water, Gun**
 * **Pattern Generator Mini Project**
 * **The Perfect Guess**
+* **Mega Project "JARVIS"**
 
 More projects will be added as my Python skills improve.
 
