@@ -82,6 +82,7 @@ Current projects include:
 * **Pattern Generator Mini Project**
 * **The Perfect Guess**
 * **Mega Project "JARVIS"**
+* **Mega Project "Auto Reply Chatbot (Whatsapp)"**
 
 More projects will be added as my Python skills improve.
 
