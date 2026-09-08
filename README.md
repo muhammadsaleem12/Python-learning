@@ -84,6 +84,7 @@ Current projects include:
 * **Mega Project "JARVIS"**
 * **Mega Project "Auto Reply Chatbot (Whatsapp)"**
 * **Medical Data Validator**
+* **User Configuration Manager - Mini Project**
 
 More projects will be added as my Python skills improve.
 
