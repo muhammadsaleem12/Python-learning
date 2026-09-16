@@ -85,6 +85,7 @@ Current projects include:
 * **Mega Project "Auto Reply Chatbot (Whatsapp)"**
 * **Medical Data Validator**
 * **User Configuration Manager - Mini Project**
+* **Email Simulator**
 
 More projects will be added as my Python skills improve.
 
