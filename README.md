@@ -86,6 +86,7 @@ Current projects include:
 * **Medical Data Validator**
 * **User Configuration Manager - Mini Project**
 * **Email Simulator**
+* **Budget App**
 
 More projects will be added as my Python skills improve.
 
