@@ -2,13 +2,13 @@ class Category:
     def __init__(self, name):
         self.name = name
         self.ledger = []
-
+    # how function handle deposits 
     def deposit(self, amount, description=''):
         self.ledger.append({
             'amount': amount,
             'description': description
         })
-
+    # how the function handle withdrawals
     def withdraw(self, amount, description=''):
         if self.check_funds(amount):
             self.ledger.append({
@@ -18,7 +18,7 @@ class Category:
             return True
 
         return False
-
+    # How to get the Total amount 
     def get_balance(self):
         total = 0
 
@@ -29,7 +29,7 @@ class Category:
 
     def check_funds(self, amount):
         return amount <= self.get_balance()
-
+    # How transfer method handle the transacitons 
     def transfer(self, amount, another):
         if self.check_funds(amount):
             self.withdraw(amount, f'Transfer to {another.name}')
@@ -37,7 +37,7 @@ class Category:
             return True
 
         return False
-
+    # String structure for how the output would look like
     def __str__(self):
         output = f'{self.name:*^30}\n'
 
