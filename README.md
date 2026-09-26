@@ -87,6 +87,7 @@ Current projects include:
 * **User Configuration Manager - Mini Project**
 * **Email Simulator**
 * **Budget App**
+* **Salary Tracker**
 
 More projects will be added as my Python skills improve.
 
