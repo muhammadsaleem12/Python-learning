@@ -88,6 +88,7 @@ Current projects include:
 * **Email Simulator**
 * **Budget App**
 * **Salary Tracker**
+* **Game Character Stats Tracker**
 
 More projects will be added as my Python skills improve.
 
