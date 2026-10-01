@@ -89,6 +89,7 @@ Current projects include:
 * **Budget App**
 * **Salary Tracker**
 * **Game Character Stats Tracker**
+* **Media Catalogue**
 
 More projects will be added as my Python skills improve.
 
