@@ -90,6 +90,7 @@ Current projects include:
 * **Salary Tracker**
 * **Game Character Stats Tracker**
 * **Media Catalogue**
+* **Discount Calculator**
 
 More projects will be added as my Python skills improve.
 
