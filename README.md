@@ -92,6 +92,7 @@ Current projects include:
 * **Media Catalogue**
 * **Discount Calculator**
 * **Polygon Area Calculator**
+* **Hash Table**
 
 More projects will be added as my Python skills improve.
 
