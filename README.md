@@ -93,6 +93,7 @@ Current projects include:
 * **Discount Calculator**
 * **Polygon Area Calculator**
 * **Hash Table**
+* **Merge Sort algorithm**
 
 More projects will be added as my Python skills improve.
 
