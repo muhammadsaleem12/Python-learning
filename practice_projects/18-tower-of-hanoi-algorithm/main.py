@@ -31,7 +31,7 @@ def hanoi_solver(n):
     # Start solving with all disks: first rod to third rod, using second as auxiliary.
     helper(first, third, n, second)
 
-    # Remove only the final newline so the returned string matches the expected format.
+    # Remove only the final newline so the returned string matches the expected format. 
     return moves.rstrip("\n")
 
 
