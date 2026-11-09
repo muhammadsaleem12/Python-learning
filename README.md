@@ -96,6 +96,7 @@ Current projects include:
 * **Merge Sort Algorithm**
 * **Tower of Hanoi Algorithm**
 * **Shortest Path Algorithm**
+* **Breadth First Search Algorithm**
 
 More projects will be added as my Python skills improve.
 
